@@ -4,6 +4,6 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vite.dev
 export default defineConfig({
-  base: "/helpdesk-system/",
+  base: "/helpdesk-control-center/",
   plugins: [react(), tailwindcss()],
 });
